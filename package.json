@@ -1,4 +1,5 @@
 {
+  "name": "turbo-react-native-boilerplate",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -14,5 +15,7 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@7.15.0",
-  "name": "turbo-react-native-boilerplate"
+  "engines": {
+    "node": ">=18"
+  }
 }
