@@ -1,5 +1,4 @@
 {
-  "name": "turbo-react-native-boilerplate",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -17,5 +16,11 @@
   "packageManager": "pnpm@7.15.0",
   "engines": {
     "node": ">=18"
-  }
+  },
+  "keywords": [
+    "pnpm",
+    "turbo",
+    "react-native",
+    "@rnx-kit"
+  ]
 }
